@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently focusing on reID ...
+🌱 I’m currently focusing on MOT ...
 
 <!--
 **gmt710/gmt710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
